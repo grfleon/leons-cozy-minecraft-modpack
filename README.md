@@ -18,6 +18,7 @@ Dieses Handbuch ist als übersichtliche, minimalistische Dokumentation aufgebaut
   <img src="cozyhouse_crop.png" alt="Cozy Medieval Haus" width="60%">
 </p>
 
+
 ### 📚 Dokumentenübersicht
 
 Klicke auf ein Dokument, um zur entsprechenden Seite zu gelangen:

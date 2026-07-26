@@ -1,5 +1,5 @@
 <img src="leonscozyminecraftmodpackbanner.png" alt="Banner" width="100%">
-# 🍃 Leons Cozy Minecraft Modpack
+ 🍃 Leons Cozy Minecraft Modpack
 
 Willkommen in der offiziellen Dokumentation und dem Handbuch für **Leons Cozy Minecraft Modpack**! 
 
@@ -7,18 +7,16 @@ Dieses Handbuch ist als übersichtliche, minimalistische Dokumentation aufgebaut
 
 ---
 
-### 🎮 Technische Daten
+ 🎮 Technische Daten
 
 * **Minecraft-Version:** `1.21.11`
 * **Mod-Loader:** `Fabric`
 * **Empfohlene Launcher:** [Modrinth App](https://modrinth.com/app) | [Prism Launcher](https://prismlauncher.org/)
 * **Server-Kompatibilität:** Aternos (Fabric 1.21.11)
 
-<p align="center">
-  <img src="cozyhouse.png" width="500">
-</p>
+---
 
-### 📚 Dokumentenübersicht
+ 📚 Dokumentenübersicht
 
 Klicke auf ein Dokument, um zur entsprechenden Seite zu gelangen:
 
@@ -39,12 +37,8 @@ Klicke auf ein Dokument, um zur entsprechenden Seite zu gelangen:
 
 ---
 
-### 🏷️ Legende der Kennzeichnungen
+ 🏷️ Legende der Kennzeichnungen
 
 * 🔴 **Host:** Muss zusätzlich auf dem Server (z. B. Aternos) installiert werden.
 * 🟢 **Essential:** Muss von jedem Spieler auf dem eigenen PC (Client) installiert werden.
 * 📦 **Bibliothek:** Technische Voraussetzung (API/Dependency) für andere Mods.
-
----
-
-*Erstellt für Leons Cozy Minecraft Modpack.*

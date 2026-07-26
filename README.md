@@ -1,4 +1,4 @@
-![Banner](leonscozyminecraftmodpack.png)
+<img src="leonscozyminecraftmodpackbanner.png" alt="Banner" width="100%">
 # 🍃 Leons Cozy Minecraft Modpack
 
 Willkommen in der offiziellen Dokumentation und dem Handbuch für **Leons Cozy Minecraft Modpack**! 

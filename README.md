@@ -15,9 +15,8 @@ Dieses Handbuch ist als übersichtliche, minimalistische Dokumentation aufgebaut
 * **Server-Kompatibilität:** Aternos (Fabric 1.21.11)
 
 <p align="center">
-  <img src="cozyhouse_crop.png" alt="Cozy Medieval Haus" width="60%">
+  <img src="cozyhouse.png" width="500">
 </p>
-
 
 ### 📚 Dokumentenübersicht
 

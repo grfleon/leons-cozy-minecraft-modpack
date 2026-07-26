@@ -1,5 +1,4 @@
-<img width="1024" height="338" alt="c0a2ad79-7879-430a-a826-95d2c6b74443" src="https://github.com/user-attachments/assets/dc5cd607-c4a4-45a0-9f0d-64d858f67df4" />
-
+<img src="banner.png" alt="Leons Cozy Minecraft Modpack Banner" width="100%">
 # 🍃 Leons Cozy Minecraft Modpack
 
 Willkommen in der offiziellen Dokumentation und dem Handbuch für **Leons Cozy Minecraft Modpack**! 

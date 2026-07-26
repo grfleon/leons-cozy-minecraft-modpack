@@ -14,10 +14,10 @@ Dieses Handbuch ist als übersichtliche, minimalistische Dokumentation aufgebaut
 * **Empfohlene Launcher:** [Modrinth App](https://modrinth.com/app) | [Prism Launcher](https://prismlauncher.org/)
 * **Server-Kompatibilität:** Aternos (Fabric 1.21.11)
 
----
-                                                                                                                                                      <p align="center">
-                                                                                                                            <img src="cozyhouse_crop.png" alt="Cozy Medieval Haus" width="60%">
+<p align="center">
+  <img src="cozyhouse_crop.png" alt="Cozy Medieval Haus" width="60%">
 </p>
+
 ### 📚 Dokumentenübersicht
 
 Klicke auf ein Dokument, um zur entsprechenden Seite zu gelangen:

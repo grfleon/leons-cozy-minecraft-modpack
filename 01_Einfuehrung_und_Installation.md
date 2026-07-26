@@ -1,12 +1,12 @@
-# Leons Cozy Minecraft Modpack
-## 01 – Einführung & Installation
+ Leons Cozy Minecraft Modpack
+ 01 – Einführung & Installation
 
 > **Minecraft-Version:** 1.21.11 | **Mod-Loader:** Fabric  
 > **Status:** Handbuch & Dokumentation
 
 ---
 
-### 📋 Voraussetzungen
+ 📋 Voraussetzungen
 
 * **Minecraft Version:** 1.21.11
 * **Mod-Loader:** Fabric Loader 1.21.11
@@ -15,14 +15,14 @@
 
 ---
 
-### 🌐 Downloadquellen
+ 🌐 Downloadquellen
 
 1. **[Modrinth](https://modrinth.com/)** *(immer bevorzugt)*
 2. **[CurseForge](https://www.curseforge.com/minecraft/mc-mods)** *(nur falls auf Modrinth keine passende Version verfügbar ist)*
 
 ---
 
-### ⚙️ Installationsreihenfolge
+ ⚙️ Installationsreihenfolge
 
 1. Fabric Loader installieren.
 2. Minecraft einmal starten und wieder schließen.
@@ -36,7 +36,7 @@
 
 ---
 
-### 📁 Ordnerpfade
+ 📁 Ordnerpfade
 
 | Inhalt | Pfad |
 | :--- | :--- |
@@ -46,7 +46,7 @@
 
 ---
 
-### 🏷️ Kennzeichnungen
+ 🏷️ Kennzeichnungen
 
 | Icon | Kennzeichnung | Beschreibung |
 | :---: | :--- | :--- |
@@ -56,7 +56,7 @@
 
 ---
 
-### 📚 Dokumentenübersicht Handbuch
+ 📚 Dokumentenübersicht Handbuch
 
 * `01` – [Einführung & Installation](./01_Einfuehrung_und_Installation.md)
 * `02` – [Bibliotheken](./02_Bibliotheken.md)

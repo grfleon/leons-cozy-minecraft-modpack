@@ -1,4 +1,5 @@
-<img src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,quality=75,width=1280/https://storage.googleapis.com/reimagine-assets/2c83bc5c-9c98-479e-a89e-3151859b9e59/image_1.png" alt="Leons Cozy Medieval Modpack Banner" width="100%">
+<img width="1024" height="338" alt="c0a2ad79-7879-430a-a826-95d2c6b74443" src="https://github.com/user-attachments/assets/dc5cd607-c4a4-45a0-9f0d-64d858f67df4" />
+
 # 🍃 Leons Cozy Minecraft Modpack
 
 Willkommen in der offiziellen Dokumentation und dem Handbuch für **Leons Cozy Minecraft Modpack**! 

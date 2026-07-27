@@ -26,10 +26,6 @@ Bibliotheken enthalten keinen eigenen sichtbaren Spielinhalt, bilden jedoch das 
 * **Download:** [Modrinth](https://modrinth.com/mod/architectury-api) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
 * **Beschreibung:** Abstraktionsschicht für plattformübergreifende Mods. Wird unter anderem für *Waystones* und *Traveler’s Backpack* benötigt.
 
-#### [Indium](https://modrinth.com/mod/indium) `📦 Bibliothek` `🟢 Essential`
-* **Download:** [Modrinth](https://modrinth.com/mod/indium) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/indium)
-* **Beschreibung:** Bindeglied zwischen *Sodium* und der Fabric Rendering API (FRAPI). Verhindert Darstellungsfehler bei Blöcken mit benutzerdefinierten Modellen.
-
 ---
 
 ### ⚙️ Mod-Spezifische Bibliotheken

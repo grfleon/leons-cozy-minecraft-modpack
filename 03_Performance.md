@@ -35,7 +35,7 @@ Die Performance-Mods bilden das Rückgrat für ein flüssiges Spielerlebnis. Sie
 * **Beschreibung:** Optimiert Spiel-Physik, Entity-KI und Chunk-Logik. Senkt die CPU-Last auf Client und Server massiv.
 
 #### [FerriteCore](https://modrinth.com/mod/ferritecore) `🟢 Essential` `🔴 Host`
-* **Download:** [Modrinth](https://modrinth.com/mod/ferritecore) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
+* **Download:** [Modrinth]((https://modrinth.com/mod/ferrite-core)) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
 * **Beschreibung:** Reduziert den RAM-Verbrauch von Minecraft erheblich durch Komprimierung von Modellen und Texturen.
 
 #### [Noisium](https://modrinth.com/mod/noisium) `🟢 Essential` `🔴 Host`

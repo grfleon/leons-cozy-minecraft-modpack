@@ -30,11 +30,6 @@ Bibliotheken enthalten keinen eigenen sichtbaren Spielinhalt, bilden jedoch das 
 
 ### ⚙️ Mod-Spezifische Bibliotheken
 
-#### [Moonlight Lib](https://modrinth.com/mod/selene) `📦 Bibliothek` `🟢 Essential` `🔴 Host`
-* **Download:** [Modrinth](https://modrinth.com/mod/selene) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/selene)
-* **Benötigt von:** *Supplementaries*, *Amendments*
-* **Beschreibung:** Universelle Bibliothek für benutzerdefinierte Blöcke, Interaktionen und Platzierungs-Logiken.
-
 #### [yACL (YetAnotherConfigLib)](https://modrinth.com/mod/yacl) `📦 Bibliothek` `🟢 Essential`
 * **Download:** [Modrinth](https://modrinth.com/mod/yacl) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yacl)
 * **Benötigt von:** *Sodium Extra*, *Chat Heads*

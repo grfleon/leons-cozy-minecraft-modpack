@@ -38,10 +38,6 @@ Die Performance-Mods bilden das Rückgrat für ein flüssiges Spielerlebnis. Sie
 * **Download:** [Modrinth]((https://modrinth.com/mod/ferrite-core)) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
 * **Beschreibung:** Reduziert den RAM-Verbrauch von Minecraft erheblich durch Komprimierung von Modellen und Texturen.
 
-#### [Noisium](https://modrinth.com/mod/noisium) `🟢 Essential` `🔴 Host`
-* **Download:** [Modrinth](https://modrinth.com/mod/noisium) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/noisium)
-* **Beschreibung:** Optimiert Berechnungen bei der Terrain-Generierung für schnelleres Laden von Chunks.
-
 ---
 
 ### 🧹 Culling & aufräumende Mods
@@ -61,7 +57,3 @@ Die Performance-Mods bilden das Rückgrat für ein flüssiges Spielerlebnis. Sie
 #### [Debugify](https://modrinth.com/mod/debugify) `🟢 Essential` `🔴 Host`
 * **Download:** [Modrinth](https://modrinth.com/mod/debugify) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/debugify)
 * **Beschreibung:** Behebt Dutzende bekannte Bugs und Performance-Flaschenhälse aus dem Vanilla-Code.
-
-#### [Memory Leak Fix](https://modrinth.com/mod/memory-leak-fix) `🟢 Essential`
-* **Download:** [Modrinth](https://modrinth.com/mod/memory-leak-fix) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/memory-leak-fix)
-* **Beschreibung:** Schließt Speicherlecks, damit das Spiel auch nach langen Sessions flüssig bleibt.
